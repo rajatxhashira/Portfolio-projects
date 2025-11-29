@@ -1,7 +1,7 @@
 
-# A Simple and Accurate Neural Network Model for Irony Detection in Twitter
+# A Simple and Accurate Neural Network Model for Irony Classification in Twitter
 
-This program provides the implementation of our model for the SemEval 2018 Task 3: Irony Detection in English Tweets, as described in our paper:
+This program provides the implementation of our model for the SemEval 2018 Task 3: Irony Classification in English Tweets, as described in our paper:
 
     @InProceedings{VUN2018,
           author    = {Vu, Thanh and Nguyen, Dat Quoc and Vu, Xuan-Son and Nguyen, Dai Quoc and Catt, Michael and Trenell, Michael},
