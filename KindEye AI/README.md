@@ -13,7 +13,7 @@ Adjusts responses based on emotional context for a more human-like interaction.
 
 LLaMA-Based Response Engine
 
-Uses Meta LLaMA for natural language understanding and generation.
+Uses Ollama for natural language understanding and generation.
 
 Generates context-aware replies that align with the user’s emotional state.
 
