@@ -1,6 +1,6 @@
 KindEye — AI Psychology Chatbot
 
-Technologies: Python · Flask · Meta LLaMA · MySQL
+Technologies: Python · Flask · Meta Ollama · MySQL
 
 KindEye is an AI-powered psychology chatbot designed to understand users’ emotional context and provide supportive, empathetic responses. The system uses an LLM to interpret message intent, identify emotional patterns, and generate replies that feel natural and personalized.
 
